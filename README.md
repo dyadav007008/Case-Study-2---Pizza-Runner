@@ -1,5 +1,8 @@
 # Case-Study-2---Pizza-Runner
 
+![image](https://github.com/user-attachments/assets/da89b91d-962d-4af3-86bb-23ae612245af)
+
+
 ## Introduction
 
 - Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
